@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">长图</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="hh">帮忙把使用中不满意的地方告诉我哦，我会随时更改bug的,我的联系方式：qq 495210745</string>
+
+</resources>
